@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About Alessia
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
+  credit: alessbell
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
 ---
