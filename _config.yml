@@ -8,7 +8,7 @@ url:              http://alessbell.github.io
 owner:
   name:           Alessia Bellisario
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Alessia is a Bitmaker and University of Toronto grad. She loves tech, politics and a good espresso (or four)."
   email:          bellisario.alessia@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: alessbell     
@@ -41,7 +41,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Toronto
 future:      true
 pygments:    true
 markdown:    kramdown
