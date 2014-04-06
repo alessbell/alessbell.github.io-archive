@@ -4,7 +4,10 @@ permalink: /posts/
 title: All Posts
 description: "An archive of posts."
 ---
-
+<header>
+<script type="text/javascript" src="//use.typekit.net/dyi7mtw.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</header>
 {% for post in site.posts %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
