@@ -2,13 +2,16 @@
 layout: page
 permalink: /about/
 title: About Alessia
-tags: [Jekyll, theme, modern, minimal, responsive]
+tags: [about]
 image:
   feature: abstract-5.jpg
   credit: alessbell
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  creditlink: 
 share: true
 ---
+
+Alessia is a graduate of the University of Toronto's Ethics, Society and Law program with a minor in Political Science. She was a scholarship recipient at Trinity College and graduate of the Margaret Macmillan Trinity One Program. She was a founding member and Chair of an educational not-for-profit...
+Outline of About page: work history, interests, skills, blogs on Bitmaker progress
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
 
