@@ -4,7 +4,7 @@ permalink: /about/
 title: About Alessia
 tags: [about]
 image:
-  feature: 10.jpg
+  feature: 19.jpg
   credit: alessbell
   creditlink: 
 share: false
