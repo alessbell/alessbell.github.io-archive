@@ -10,8 +10,8 @@ image:
 share: false
 ---
 
-Alessia is a graduate of the University of Toronto’s Ethics, Society and Law program with minors in Political Science and Sexual Diversity Studies. She was a scholarship recipient at Trinity College and a graduate of the Margaret Macmillan Trinity One Program.
+Hi, I'm Alessia Bellisario. I'm a recent graduate of the University of Toronto's Ethics, Society & Law program and a soon-to-be member of the Bitmaker Labs June 2014 full-stack development cohort. I love tech, politics, education and any cause or company that manages to combine any/all of the above. 
 
-Alessia served as founding member and Chair of an award- and grant-winning educational not-for-profit, the University of Toronto Model Parliament, and presently volunteers year-round for Pride Toronto, directing the organization’s outreach efforts.
+I hope to use this tiny piece of digital real estate to track my Bitmaker progress, post occasional code snippets and more generally document the life of a recent grad venturing into the world of full-stack web development.
 
-Alessia most recently worked for a Toronto city councillor in digital communications, has done front-end dev for an investment firm, is an avid photographer and currently treads at the intersection of tech, politics and LGBTQ activism. She is excited about joining Bitmaker Labs as a member of the June 2014 cohort.
+If you'd like to chat or find yourself in Toronto and enjoy a good cup of coffee, feel free to get in touch via email or Twitter at bellisario[dot]alessia[at]gmail[dot]com or @alessbell.
