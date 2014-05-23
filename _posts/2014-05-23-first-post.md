@@ -5,7 +5,7 @@ description: "Custom written post descriptions are the way to go... if you're no
 tags: [Bitmaker]
 modified: 2014-05-23
 image:
-  feature: helloworld.jpg
+  feature: 20.jpg
   credit: Peter Armstrong
   creditlink: https://leanpub.com/programmingforkids/read
 comments: true
