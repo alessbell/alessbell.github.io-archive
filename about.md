@@ -14,4 +14,4 @@ Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://ww
 
 I hope to use this tiny piece of digital real estate to track my Bitmaker progress, post occasional code snippets and more generally document the life of a recent grad venturing into the world of full-stack web development.
 
-If you'd like to chat or find yourself in Toronto and enjoy a good cup of coffee, feel free to get in touch via email or Twitter at <a href="bellisario.alessia@gmail.com">bellisario[dot]alessia[at]gmail[dot]com</a> or [@alessbell](http://twitter.com/alessbell).
+If you'd like to chat or find yourself in Toronto and enjoy a good cup of coffee, feel free to get in touch via email or Twitter at <bellisario.alessia@gmail.com> or [@alessbell](http://twitter.com/alessbell).
