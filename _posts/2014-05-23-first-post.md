@@ -28,7 +28,7 @@ Having signed up for the June cohort in December, I had a few months to work on 
 
 Most of the articles on spaced repetition learning mentioned above refer to a free flash card program called Anki to reinforce concepts/improve retention. Using the a few lists of questions I came across on The Odin Project, I made a few decks of flash cards on:
 
-- Arrays
+- [Arrays](flash cards/Arrays.apkg)
 - Hashes
 - Numbers
 - Strings
