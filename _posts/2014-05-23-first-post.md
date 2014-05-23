@@ -28,9 +28,9 @@ Having signed up for the June cohort in December, I had a few months to work on 
 
 Most of the articles on spaced repetition learning mentioned above refer to a free flash card program called Anki to reinforce concepts/improve retention. Using the a few lists of questions I came across on The Odin Project, I made a few decks of flash cards on:
 
-- [Arrays](flash cards/Arrays.apkg)
-- Hashes
-- Numbers
+- [Arrays](https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Arrays.apkg?raw=true)
+- [Hashes](https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Hashes.apkg?raw=true)
+- [Numbers](https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Numbers.apkg?raw=true)
 - Strings
 
 You can download Anki here and my flash card files above. Which resources do you find particularly helpful? Drop me a line at bellisario.alessia@gmail.com or @alessbell :) Happy programming!
