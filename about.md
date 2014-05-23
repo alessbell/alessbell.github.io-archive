@@ -13,7 +13,7 @@ share: false
 Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://www.trinity.utoronto.ca/) in the [University of Toronto](http://www.utoronto.ca/) with a degree in Ethics, Society & Law  and a soon-to-be member of the [Bitmaker Labs](http://bitmakerlabs.com/) June 2014 full-stack development cohort. I love tech, politics, education and any cause or company that manages to combine any of the above. 
 
 <figure>
-<a href="https://www.flickr.com/photos/alessbell/14065115277" title="MalmöwithMartina by Alessia Bellisario, on Flickr"><img src="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" width="720" height="720" alt="MalmöwithMartina"></a><figcaption><a href="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" title="My sister and me in Malmö, Sweden">My sister and me in Malmö, Sweden</a>.</figcaption>
+<a href="https://www.flickr.com/photos/alessbell/14065115277" title="MalmöwithMartina by Alessia Bellisario, on Flickr"><img src="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" width="720" height="720" alt="Malmö with Martina"></a><figcaption><a href="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" title="With my sister Martina in Malmö, Sweden">My sister and me in Malmö, Sweden</a>.</figcaption>
 </figure>
 
 I hope to use this tiny piece of digital real estate to track my Bitmaker progress, post occasional code snippets and more generally document the life of a recent grad venturing into the world of full-stack web development.
