@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-description: "A blog post of firsts."
+description: "Another day, another Ruby script."
 tags: [Bitmaker]
 modified: 2014-05-23
 image:
