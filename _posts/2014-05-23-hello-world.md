@@ -22,5 +22,5 @@ As a political staffer at city hall (during the infamous [Summer of Crack](http:
 
 I'll spare you my own explanation of coding bootcamps and their relative merits; [Quora](http://www.quora.com/Programming-Bootcamps/Are-programming-boot-camps-worth-it) and [Hacker News](http://eewang.github.io/blog/2013/10/17/are-dev-bootcamps-a-scam-an-alums-perspective/) are equally good places to begin your research if you're considering a similar program. The important point, however, seems to me to be this: seeing as a coding bootcamp provides you with a wealth of educational resources and a relatively brief period of time in which to take advantage of them, a person's relative success is a function of effort and effective use of time.
 
---
+***
 I'll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you have any questions. You should follow me on twitter at [@alessbell](http://www.twitter.com/alessbell).

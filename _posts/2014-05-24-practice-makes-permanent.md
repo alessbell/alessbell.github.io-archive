@@ -23,5 +23,5 @@ Most of the articles on spaced repetition learning mentioned above refer to a fr
 
 You can download Anki [here](http://ankisrs.net/) and my flash card files can be downloaded from the links above. Which coding resources do you find particularly helpful? Drop me a line at <bellisario.alessia@gmail.com> or [@alessbell](http://twitter.com/alessbell)!
 
---
+***
 I'll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you're considering a similar program and have any questions. You should also follow me on twitter at [@alessbell](http://www.twitter.com/alessbell).
