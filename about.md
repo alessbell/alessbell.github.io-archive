@@ -5,16 +5,18 @@ title: About Alessia
 tags: [about]
 image:
   feature: 19.jpg
-  credit: alessbell
+  credit: Alessia Bellisario
   creditlink: https://www.flickr.com/photos/alessbell/13704624223/in/photostream/
 share: false
 ---
 
-Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://www.trinity.utoronto.ca/) in the [University of Toronto](http://www.utoronto.ca/) with a degree in Ethics, Society & Law  and a soon-to-be member of the [Bitmaker Labs](http://bitmakerlabs.com/) June 2014 full-stack development cohort. I love tech, politics, education and any cause or company that manages to combine any of the above. 
+Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://www.trinity.utoronto.ca/) in the [University of Toronto](http://www.utoronto.ca/) with a degree in Ethics, Society & Law  and a soon-to-be member of the [Bitmaker Labs](http://bitmakerlabs.com/) June 2014 full-stack development cohort. I love tech, politics, education and any cause or company working to solve tough problems in these spaces. 
 
 <figure>
-<a href="https://www.flickr.com/photos/alessbell/14065115277" title="MalmöwithMartina by Alessia Bellisario, on Flickr"><img src="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" width="720" height="720" alt="Malmö with Martina"></a><figcaption><a href="https://farm3.staticflickr.com/2904/14065115277_578c0ee593_o.jpg" title="With my sister Martina in Malmö, Sweden">My sister and me in Malmö, Sweden</a>.</figcaption>
+<a href="https://www.flickr.com/photos/alessbell/14071442237" title="KeithDaveyForum by Alessia Bellisario, on Flickr"><img src="https://farm4.staticflickr.com/3694/14071442237_d25ec73d80_z.jpg" width="640" height="478" alt="KeithDaveyForum"></a><figcaption><a href="https://farm4.staticflickr.com/3694/14071442237_d25ec73d80_z.jpg" title="Keith Davey Forum, University of Toronto">The Keith Davey Forum at the University of Toronto.</a>.</figcaption>
 </figure>
+
+Outside of my studies, I served as founding member and chair of a grant- and award-winning educational not-for-profit, The University of Toronto Model Parliament and Youth Leadership Seminar held at the Ontario Legislative Assembly, an annual model provincial parliament at Queen's Park for high school and university students from across Canada. In the summers of 2012 and 2013, I worked as special assistant to Toronto city councillor [John Filion](http://johnfilion.ca) on several digital projects.
 
 I hope to use this tiny piece of digital real estate to track my Bitmaker progress, post occasional code snippets and more generally document the life of a recent grad venturing into the world of full-stack web development.
 
