@@ -14,9 +14,9 @@ share: true
 
 Having signed up for the June cohort in December, I had a few months to work on the Bitmaker prep course which consists mainly of the Codecademy Ruby track, Ruby Monk, the Command Line Crash Course and a primer on Git and HTML/CSS. The material was easy enough to get through the first time, but when it came to internalizing a whole host of new concepts in a short period of time, I knew I needed a better strategy.
 
-As I began working to improve my daily routine, the words of an old high school soccer coach came to mind: **"Practice makes permanent; *perfect* practice makes perfect."**
+As I began fine-tuning my daily routine, the words of an old high school coach came to mind: "Practice makes permanent; *perfect* practice makes perfect."
 
-After skimming through seemingly endless lists of Ruby tutorials/drills/videos online, I came across a few incredibly helpful articles on spaced repetition learning + programming. You can read them [here](https://medium.com/medium-redef/5481606b087a), [here](http://sivers.org/srs), [here](http://www.supermemo.com/articles/20rules.htm) and [here](http://www.jackkinsella.ie/2011/12/05/janki-method.html). I also found some of the textbooks mentioned [here on Chris Webb's blog](http://blog.mediumequalsmessage.com/6-best-learning-ruby-books) to be quite useful, and found the curriculum at [The Odin Project](http://www.theodinproject.com/) to be invaluable, as well.
+After skimming through every list of Ruby tutorials/drills/videos I could get my hands on, I came across a few incredibly helpful articles on spaced repetition learning + programming. You can read them [here](https://medium.com/medium-redef/5481606b087a), [here](http://sivers.org/srs), [here](http://www.supermemo.com/articles/20rules.htm) and [here](http://www.jackkinsella.ie/2011/12/05/janki-method.html). I also found some of the textbooks mentioned [here on Chris Webb's blog](http://blog.mediumequalsmessage.com/6-best-learning-ruby-books) to be quite useful, and found the curriculum at [The Odin Project](http://www.theodinproject.com/) to be invaluable, as well.
 
 Most of the articles on spaced repetition learning cited above refer to a free flash card program called Anki to reinforce concepts/improve retention. Using a few lists of questions I came across on The Odin Project, I made a few decks of flash cards on:
 
