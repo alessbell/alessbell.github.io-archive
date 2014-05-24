@@ -16,7 +16,7 @@ Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://ww
 <a href="https://www.flickr.com/photos/alessbell/14071442237" title="KeithDaveyForum by Alessia Bellisario, on Flickr"><img src="https://farm4.staticflickr.com/3694/14071442237_d25ec73d80_z.jpg" width="640" height="478" alt="KeithDaveyForum"></a><figcaption><a href="https://farm4.staticflickr.com/3694/14071442237_d25ec73d80_z.jpg" title="Keith Davey Forum, University of Toronto">The Keith Davey Forum at Victoria College, U of T.</a></figcaption>
 </figure>
 
-Outside of my studies, I served as founding member and chair of a grant- and award-winning educational not-for-profit, The University of Toronto Model Parliament and Youth Leadership Seminar, an annual model provincial parliament at the Ontario Legislative Assembly for high school and university students from across Canada. In the summers of 2012 and 2013, I worked as special assistant to Toronto city councillor [John Filion](http://johnfilion.ca) on several web-based initiatives.
+Outside of my studies, I served as founding member and chair of a grant- and award-winning educational not-for-profit, The University of Toronto Model Parliament and Youth Leadership Seminar, an annual model provincial parliament at the Ontario Legislative Assembly bringing together over two hundred high school and university students from across Canada. In the summers of 2012 and 2013, I worked as special assistant to Toronto city councillor [John Filion](http://johnfilion.ca) on several web-based initiatives.
 
 I hope to use this tiny piece of digital real estate to track my Bitmaker progress, post occasional code snippets and more generally document the life of a recent grad venturing into the world of full-stack web development.
 
