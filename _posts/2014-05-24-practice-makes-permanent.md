@@ -2,12 +2,12 @@
 layout: post
 title: "Practice Makes Permanent"
 description: "Spaced repetition learning and programming."
-tags: [Bitmaker]
+tags: [Bitmaker, Ruby on Rails]
 modified: 2014-05-23
 image:
-  feature: 20.jpg
+  feature: 4.jpg
   credit: Alessia Bellisario
-  creditlink: https://www.flickr.com/photos/alessbell/13704616463/
+  creditlink: https://www.flickr.com/photos/alessbell/13674958403/
 comments: true
 share: true
 ---
@@ -22,6 +22,7 @@ Most of the articles on spaced repetition learning mentioned above refer to a fr
 - [Strings](https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Strings.apkg?raw=true)
 
 You can download Anki [here](http://ankisrs.net/) and my flash card files can be downloaded from the links above. Which coding resources do you find particularly helpful? Drop me a line at <bellisario.alessia@gmail.com> or [@alessbell](http://twitter.com/alessbell)!
+
 
 ***
 I'll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you're considering a similar program and have any questions. You should also follow me on twitter at [@alessbell](http://www.twitter.com/alessbell).
