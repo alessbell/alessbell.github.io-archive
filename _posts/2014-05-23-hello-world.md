@@ -5,7 +5,7 @@ description: "Another day, another Ruby script."
 tags: [Bitmaker]
 modified: 2014-05-23
 image:
-  feature: 20.jpg
+  feature: 5.jpg
   credit: Alessia Bellisario
   creditlink: https://www.flickr.com/photos/alessbell/13704616463/
 comments: true
