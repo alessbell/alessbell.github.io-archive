@@ -1,0 +1,283 @@
+//Imports
+@import compass/reset
+@import compass/css3
+@import blueprint/grid
+@import syntax
+@import compass/typography/text/ellipsis
+
+// Variables
+$content-width: 700px
+$use-mozilla-ellipsis-binding: true
+$primary-color: #5694f1
+$header-height: 75px
+$logo-height: $header-height - 15px
+
+// Global border-box box-sizing
+*, *:before, *:after
+  +box-sizing(border-box)
+
+// Base
+body
+  background:
+    size: 100%
+    repeat: no-repeat
+  color: #777
+  font:
+    family: "Adelle", "Helvetica Neue", Arial, sans-serif
+    size: 21px
+    weight: 300
+  padding: 20px
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+
+input
+  +border-radius(2px)
+  border: 1px solid #CCC
+  font:
+    family: "Adelle", "Helvetica Neue", Arial, sans-serif
+    size: 16px
+    weight: 300
+  height: 50px
+  line-height: 50px
+  width: 100%
+
+// Typography
+h1, h2, h3, h4
+  font: 
+    family: "Adelle", "Helvetica Neue", Helvetica, Arial, Sans-serif
+    weight: 400
+
+a:link,
+a:visited
+  +transition-property(color)
+  +transition-duration(.5s)
+  text-decoration: none
+  color: $primary-color
+  &:hover
+    color: darken($primary-color, 15%)
+
+.text-right
+  text-align: right
+
+h1
+  color: #222
+  font:
+    weight: 400
+    size: 1.5em
+  line-height: 1.5
+  margin: 0 0 1em 0
+
+h2
+  color: #aaa
+  font:
+    weight: 400
+    size: 1.25em
+  margin: .5em 0 1em 0
+
+h3
+  font:
+    size: 1em
+    weight: 600
+  margin: .5em 0 1em 0
+  span
+    font-weight: 400
+
+strong
+  font-weight: 600
+
+p, blockquote, ul
+  line-height: 2.0
+  margin-bottom: 1.5em
+
+// Pull dem quotes out!
+blockquote
+  +opacity(.6) 
+  border-left: 3px solid $primary-color
+  font:
+    weight: 400
+    size: 1.2em
+  margin-left: -30px
+  padding-left: 30px
+
+  &:hover
+    +opacity(1)
+    +transition-property(opacity)
+    +transition-duration(1s)
+    cursor: pointer
+
+
+// File input duh
+input[type="file"]
+  color: transparent
+  position: relative
+  -webkit-user-select: none
+  &::-webkit-file-upload-button
+    visibility: hidden
+  &:before
+    color: #999
+    content: 'Upload Image'
+    left: 20px
+    position: absolute
+  &:after
+    color: #999
+    content: "\f030"
+    font-family: 'FontAwesome'
+    position: absolute
+    right: 20px
+  &:hover
+    border: 1px solid #999
+    cursor: pointer
+    &:before
+      color: #999
+  &:focus
+    outline: 0
+
+// All the necessarys about yours truly
+header
+  +opacity(.5)
+  +transition-property(opacity)
+  +transition-duration(1s)
+  height: $header-height
+  margin-top: 15px
+  padding-left: 15px
+  max-width: 100%
+  &:hover
+    +opacity(1)
+  // I swear I know CSS – just look at this!
+  .logo
+    color: #999
+    font-weight: 600
+    font-size: 30px
+    .sq
+      +transition-property(rotate)
+      +transition-duration(2s)
+      border: 1px solid #EEE
+      height: $logo-height
+      position: absolute
+      width: $logo-height
+    .sq-letter
+      border: none
+      line-height: $logo-height
+      text-align: center
+    .sq-one
+      +rotate(0deg)
+    .sq-two
+      +rotate(30deg)
+    .sq-three
+      +rotate(60deg)
+    &:hover
+      cursor: pointer
+      color: #999
+      .sq-one
+        +rotate(15deg)
+      .sq-two
+        +rotate(45deg)
+      .sq-three
+        +rotate(75deg)
+  nav
+    float: right
+    ul
+      margin-bottom: 0
+      li
+        +inline-block
+        line-height: $header-height
+    a:link,
+    a:visited
+      color: #CECECE
+      font-size: 21px
+      margin-right: 10px
+      &:hover
+        color: #999
+
+// Where the magic happens
+.main
+  background: #FFF
+  max-width: $content-width
+  margin: 2em auto
+  &:after
+    content: ""
+    display: table
+    clear: both
+
+// A bet ya no body ever uses this
+.comments
+  margin: 0 auto
+  margin-bottom: 0em
+  max-width: $content-width
+
+// Lil code-blocks s'all
+.highlight
+  +border-radius(4px)
+  background: #f9f9f9
+  margin-bottom: 2em
+  overflow: scroll
+  padding: 1.5em
+
+// Photos and the like ya heard?
+figure 
+  figcaption
+    margin-top: 1em
+  img
+    +border-radius(4px)
+    margin-left: -40px
+    width: $content-width + 80px
+
+// Sometimes I got lil quips/images
+aside,
+figure
+  color: #CCC
+  margin-bottom: 1.5em
+
+// Try and guess
+.thoughts
+  .thought
+    +transition-property(color)
+    +transition-duration(1s)
+    line-height: 1.8
+    margin-bottom: .5em
+    .thought-title
+      +ellipsis()
+      float: left
+      width: 70%
+    .thought-date
+      text-align: right
+      color: #CCC
+      float: right
+
+// Lil border splashes here and there
+hr 
+  border: 0
+  height: 0
+  border-top: 1px solid #f9f9f9
+  margin-bottom: 30px
+
+@media screen and (max-width: 790px)
+  body
+    font-size: 18px
+  header
+    padding-left: 10px
+  figure 
+    img
+      margin-left: 0
+      width: 100%
+
+@media screen and (max-width: 420px)
+  header
+    +opacity(1)
+    height: 40px
+    margin-top: 10px
+    .logo
+      font-size: 18px
+      .sq
+        height: 40px
+        width: 40px
+      .sq-letter
+        line-height: 40px
+    nav ul li
+      line-height: 40px
+  body
+    font-size: 16px
+  .thoughts
+    .thought
+      .thought-title
+        width: 65%
