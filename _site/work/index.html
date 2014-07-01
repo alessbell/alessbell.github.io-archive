@@ -1,6 +1,3 @@
----
-layout: post
----
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,30 +5,20 @@ layout: post
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <!--General Meta-->
-    <title>{{ page.title }} – Alex Hertz</title>
+    <title>Alex Hertz / Work</title>
     <meta name="viewport" content="width=device-width">
-    {% if page.description %}
-    <meta name="description" content="{{ page.description | truncatewords: 200 | strip_newlines | escape_once }}" />
-    {% else %}
-    <meta name="description" content="{{ content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
-    {% endif %}
-    <link rel="canonical" href="http://www.hey.al{{ page.url }}" />
+    <meta name="description" content="My name is Alex Hertz but feel free to call me Al. I design and develop the part of the internet you see and interact with."/>
+    <link rel="canonical" href="http://hey.al" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
     <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png">
     
     <!--Facebook-->
-    <meta property="og:title" content="{{ page.title }} / Al Hertz" />
-    {% if page.description %}
-    <meta property="og:description" content="{{ page.description | truncatewords: 200 | strip_newlines | escape_once }}" />
-    {% else %}
-    <meta property="og:description" content="{{ content | strip_html | truncatewords: 200 | strip_newlines | escape_once }}" />
-    {% endif %}
-    <meta property="og:url" content="http://hey.al{{ page.url }}" />
+    <meta property="og:title" content="Alex Hertz - Design / Code" />
+    <meta property="og:description" content="My name is Alex Hertz but feel free to call me Al. I design and develop the part of the internet you see and interact with." />
+    <meta property="og:url" content="http://hey.al" />
     <meta property="og:site_name" content="Alex Hertz" />
     <meta property="og:image" content="http://hey.al/img/fb.jpg" />
-
     
     <!--Twitter-->
     <meta name="twitter:card" content="summary"/>
@@ -48,14 +35,31 @@ layout: post
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
   </head>
-  <body class="thought">
+  <body class="page">
       
     <!--Header-->
-    {% include _header.html %}
+<header class="header">
+  <a class="logo" href="/">
+    <div class="sq sq-letter">A</div>
+    <div class="sq sq-one"></div>
+    <div class="sq sq-two"></div>
+    <div class="sq sq-three"></div>
+  </a>
+  <nav>
+  <ul>
+    <li><a href="https://twitter.com/alhertz"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://dribbble.com/alhertz"><i class="fa fa-dribbble"></i></a></li>
+    <li><a href="http://www.linkedin.com/in/alexchertz"><i class="fa fa-linkedin-square"></i></a></li>
+    <li><a href="https://github.com/alhertz"><i class="fa fa-github"></i></a></li>
+    <li><a href="https://instagram.com/alhertz"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="/about"><i class="fa fa-info-circle"></i></a></li>
+  </ul>
+</nav>
+</header>
 
     <!--Content-->
     <section class="main">
-      {{ content }}
+      Under construction
     </section>
     
     <!--JS-->
