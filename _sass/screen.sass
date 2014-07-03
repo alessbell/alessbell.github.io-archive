@@ -43,7 +43,7 @@ input
 
 // Typography
 h1, h2, h3, h4
-  font: 
+  font:
     family: "Adelle", "Helvetica Neue", Helvetica, Arial, Sans-serif
     weight: 400
 
@@ -91,7 +91,7 @@ p, blockquote, ul
 
 // Pull dem quotes out!
 blockquote
-  +opacity(.6) 
+  +opacity(.6)
   border-left: 3px solid $primary-color
   font:
     weight: 400
@@ -102,7 +102,7 @@ blockquote
   &:hover
     +opacity(1)
     +transition-property(opacity)
-    +transition-duration(1s)
+    +transition-duration(.5s)
     cursor: pointer
 
 
@@ -150,7 +150,7 @@ header
     font-size: 30px
     .sq
       +transition-property(rotate)
-      +transition-duration(2s)
+      +transition-duration(1s)
       border: 1px solid #EEE
       height: $logo-height
       position: absolute
@@ -214,7 +214,7 @@ header
   padding: 1.5em
 
 // Photos and the like ya heard?
-figure 
+figure
   figcaption
     margin-top: 1em
   img
@@ -232,7 +232,7 @@ figure
 .thoughts
   .thought
     +transition-property(color)
-    +transition-duration(1s)
+    +transition-duration(.5s)
     line-height: 1.8
     margin-bottom: .5em
     .thought-title
@@ -245,7 +245,7 @@ figure
       float: right
 
 // Lil border splashes here and there
-hr 
+hr
   border: 0
   height: 0
   border-top: 1px solid #f9f9f9
@@ -256,7 +256,7 @@ hr
     font-size: 18px
   header
     padding-left: 10px
-  figure 
+  figure
     img
       margin-left: 0
       width: 100%
