@@ -1,16 +1,13 @@
 ---
 layout: post
+permalink: /practice-makes-permanent/
 title: "Practice Makes Permanent"
 description: "Spaced repetition learning + Ruby on Rails."
-tags: [Bitmaker, Ruby on Rails]
 modified: 2014-05-23
-image:
-  feature: 4.jpg
-  credit: Alessia Bellisario
-  creditlink: https://www.flickr.com/photos/alessbell/13674958403/
 comments: true
 share: true
 ---
+# Practice Makes Permanent
 
 Having signed up for the June cohort in December, I had a few months to work on the Bitmaker prep course which consists mainly of the Codecademy Ruby track, Ruby Monk, the Command Line Crash Course and a primer on Git and HTML/CSS. The material was easy enough to get through the first time, but when it came to internalizing a whole host of new concepts in a short period of time, I knew I needed a better strategy.
 

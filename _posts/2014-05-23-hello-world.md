@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /hello-world/
 title: "Hello World"
 description: "Another day, another Ruby script."
 tags: [Bitmaker]
@@ -11,7 +12,6 @@ image:
 comments: true
 share: true
 ---
-
 # Hello World
 
 It's been more than five months since I first stepped foot in the old Bitmaker Labs office space on Duncan Street for my interview with Erik and Minh. At the time, I was parsing through college curricula for post-grad programs in web development, contemplating the LSAT and facing down a daunting fork in the road as my final semester at the University of Toronto drew near.
