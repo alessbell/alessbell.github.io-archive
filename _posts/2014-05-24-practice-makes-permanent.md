@@ -1,9 +1,11 @@
 ---
 layout: post
-permalink: /practice-makes-permanent/
-title: "Practice Makes Permanent"
-description: "Spaced repetition learning + Ruby on Rails."
-modified: 2014-05-23
+title:  "Practice Makes Permanent"
+date:   2014-05-23
+categories: Bitmaker
+permalink: practice-makes-permanent
+description: Spaced repetition learning + Ruby on Rails.
+
 comments: true
 share: true
 ---

@@ -1,14 +1,11 @@
 ---
 layout: post
-permalink: /hello-world/
-title: "Hello World"
-description: "Another day, another Ruby script."
-tags: [Bitmaker]
-modified: 2014-05-23
-image:
-  feature: 5.jpg
-  credit: Alessia Bellisario
-  creditlink: https://www.flickr.com/photos/alessbell/13704616463/
+title:  "Hello World"
+date:   2014-05-23
+categories: Bitmaker
+permalink: hello-world
+description: Another day, another Ruby script.
+
 comments: true
 share: true
 ---
