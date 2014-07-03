@@ -12,6 +12,8 @@ comments: true
 share: true
 ---
 
+# Hello World
+
 It's been more than five months since I first stepped foot in the old Bitmaker Labs office space on Duncan Street for my interview with Erik and Minh. At the time, I was parsing through college curricula for post-grad programs in web development, contemplating the LSAT and facing down a daunting fork in the road as my final semester at the University of Toronto drew near.
 
 Deciding on a single path post-graduation was predictably tough: on the one hand, I've thoroughly enjoyed my course of studies over the past few years in political theory and ethics. On the other hand, I'm all too familiar with the Jessica Hische-ism "[procrastiwork](http://jessicahische.is/aprocrastiworker)": throughout undergrad, the freelance web design work I took on became affectionately known as "the work I do when I should be doing other work." It took a few years of growth and self-reflection to finally realize that my impulse to create things on the web is a feature, not a bug, of my personal and professional interests.
