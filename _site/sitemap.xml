@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc></loc>
+    </url>
+    
+    
+    <url>
+        <loc>/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>/about/about/</loc>
+    </url>
+    
+    <url>
+        <loc>/about/</loc>
+    </url>
+    
+    <url>
+        <loc>/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/node_modules/grunt/node_modules/js-yaml/examples/sample_document.yaml</loc>
+    </url>
+    
+    <url>
+        <loc>/node_modules/grunt-contrib-watch/node_modules/tiny-lr/node_modules/faye-websocket/spec/server.crt</loc>
+    </url>
+    
+    <url>
+        <loc>/node_modules/grunt-contrib-watch/node_modules/tiny-lr/node_modules/faye-websocket/spec/server.key</loc>
+    </url>
+    
+    <url>
+        <loc>/node_modules/grunt-svgmin/node_modules/svgo/node_modules/js-yaml/examples/sample_document.yaml</loc>
+    </url>
+    
+    <url>
+        <loc>/posts/</loc>
+    </url>
+    
+    <url>
+        <loc>/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>/work/index.html</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>/code-and-camaraderie</loc>
+    </url>
+    
+    <url>
+        <loc>/practice-makes-permanent</loc>
+    </url>
+    
+    <url>
+        <loc>/hello-world</loc>
+    </url>
+    
+</urlset>

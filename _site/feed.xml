@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text"></title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-07-03T16:42:16-04:00</updated>
+<id>/</id>
+<author>
+  <name></name>
+  <uri>/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Code and Camaraderie]]></title>
+ <link rel="alternate" type="text/html" href="/code-and-camaraderie" />
+  <id>/Week-One</id>
+  <published>2014-06-06T00:00:00-04:00</published>
+  <updated>2014-06-06T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1&gt;Code and Camaraderie&lt;/h1&gt;
+
+&lt;p&gt;Week one at Bitmaker Labs is quickly drawing to a close. It is 7:01 EST and eight students of a cohort of thirty-five remain: those of us still making our way through coding challenges and a few kind classmates willing to stick it out on a Friday night to lend a helping hand. Bitmaker co-founder Will Richman has been quietly typing away at a desk among students and instructors doing much of the same, but the room is a bit too quiet for a Friday night. Will swivels around in his chair: “Anyone want a beer? Maybe some music?”&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/800/1*7OzQX9jjmFXIUjnDhVCnjg.jpeg&quot; title=&quot;The author&#39;s view at time of writing&quot;&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/800/1*7OzQX9jjmFXIUjnDhVCnjg.jpeg&quot; alt=&quot;The author&#39;s view at time of writing.&quot;&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/800/1*7OzQX9jjmFXIUjnDhVCnjg.jpeg&quot; title=&quot;The author&#39;s view at time of writing.&quot;&gt;The author&#39;s view at time of writing.&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;New Order’s “Bizarre Love Triangle” plays on the stereo as bottles of Keith’s are handed out. The group that remains is in for the long haul (those who’ve headed out for the weekend have long since completed the assignment due Monday), but at Bitmaker, camaraderie—and Songza—are the perfect complements to a long day of hard work. It’s only the first week but nearly everyone is talking about coming in on Saturday for more of the same.&lt;/p&gt;
+
+&lt;p&gt;I could write a few hundred words on the attendant highs and lows of week one, but, frankly, I have code that needs refactoring. The intellectual roller coaster ride that is learning to program is equal parts exhilarating and exhausting, but the satisfaction of writing a working command line CRM program is unlike anything I’ve experienced. With week one in the books, there is much to look forward to: in week two, we’ll be building our first web application and learning more about the inner workings of the web. Stay tuned for more dispatches from 220 King Street West.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;I&amp;#39;ll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you have any questions. You should follow me on twitter at &lt;a href=&quot;http://www.twitter.com/alessbell&quot;&gt;@alessbell&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/code-and-camaraderie&quot;&gt;Code and Camaraderie&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Practice Makes Permanent]]></title>
+ <link rel="alternate" type="text/html" href="/practice-makes-permanent" />
+  <id>/practice-makes-permanent</id>
+  <published>2014-05-23T00:00:00-04:00</published>
+  <updated>2014-05-23T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1&gt;Practice Makes Permanent&lt;/h1&gt;
+
+&lt;p&gt;Having signed up for the June cohort in December, I had a few months to work on the Bitmaker prep course which consists mainly of the Codecademy Ruby track, Ruby Monk, the Command Line Crash Course and a primer on Git and HTML/CSS. The material was easy enough to get through the first time, but when it came to internalizing a whole host of new concepts in a short period of time, I knew I needed a better strategy.&lt;/p&gt;
+
+&lt;p&gt;As I began fine-tuning my daily routine, the words of an old high school coach came to mind: &amp;quot;Practice makes permanent; &lt;em&gt;perfect&lt;/em&gt; practice makes perfect.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;After skimming through every list of Ruby tutorials/drills/videos I could get my hands on, I came across a few incredibly helpful articles on spaced repetition learning + programming. You can read them &lt;a href=&quot;https://medium.com/medium-redef/5481606b087a&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;http://sivers.org/srs&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;http://www.supermemo.com/articles/20rules.htm&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://www.jackkinsella.ie/2011/12/05/janki-method.html&quot;&gt;here&lt;/a&gt;. I also found some of the textbooks mentioned &lt;a href=&quot;http://blog.mediumequalsmessage.com/6-best-learning-ruby-books&quot;&gt;here on Chris Webb&amp;#39;s blog&lt;/a&gt; to be quite useful, and found the curriculum at &lt;a href=&quot;http://www.theodinproject.com/&quot;&gt;The Odin Project&lt;/a&gt; to be invaluable, as well.&lt;/p&gt;
+
+&lt;p&gt;Most of the articles on spaced repetition learning cited above refer to a free flash card program called Anki to reinforce concepts/improve retention. Using a few lists of questions I came across on The Odin Project, I made a few decks of flash cards on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Arrays.apkg?raw=true&quot;&gt;Arrays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Hashes.apkg?raw=true&quot;&gt;Hashes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Numbers.apkg?raw=true&quot;&gt;Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/alessbell/alessbell.github.io/blob/master/flash%20cards/Strings.apkg?raw=true&quot;&gt;Strings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can grab Anki &lt;a href=&quot;http://ankisrs.net/&quot;&gt;here&lt;/a&gt; and my flash card files can be downloaded from the links above. Which coding resources do you find particularly helpful?&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;I&amp;#39;ll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you&amp;#39;re considering a similar program and have any questions. You should follow me on twitter at &lt;a href=&quot;http://www.twitter.com/alessbell&quot;&gt;@alessbell&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/practice-makes-permanent&quot;&gt;Practice Makes Permanent&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on May 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Hello World]]></title>
+ <link rel="alternate" type="text/html" href="/hello-world" />
+  <id>/hello-world</id>
+  <published>2014-05-23T00:00:00-04:00</published>
+  <updated>2014-05-23T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;It&amp;#39;s been more than five months since I first stepped foot in the old Bitmaker Labs office space on Duncan Street for my interview with Erik and Minh. At the time, I was parsing through college curricula for post-grad programs in web development, contemplating the LSAT and facing down a daunting fork in the road as my final semester at the University of Toronto drew near.&lt;/p&gt;
+
+&lt;p&gt;Deciding on a single path post-graduation was predictably tough: on the one hand, I&amp;#39;ve thoroughly enjoyed my course of studies over the past few years in political theory and ethics. On the other hand, I&amp;#39;m all too familiar with the Jessica Hische-ism &amp;quot;&lt;a href=&quot;http://jessicahische.is/aprocrastiworker&quot;&gt;procrastiwork&lt;/a&gt;&amp;quot;: throughout undergrad, the freelance web design work I took on became affectionately known as &amp;quot;the work I do when I should be doing other work.&amp;quot;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It took a few years of growth and self-reflection to finally realize that my impulse to create things on the web is a feature, not a bug, of my personal and professional interests.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;As a political staffer at city hall (during the infamous &lt;a href=&quot;http://en.wikipedia.org/wiki/Timeline_of_Rob_Ford_video_scandal&quot;&gt;Summer of Crack&lt;/a&gt;, no less), I happily took on a range of duties that fell under the umbrella of digital communications. Eventually, however, the urge to develop new and better tools outgrew my job description and fledgling skill set. I began exploring a range of free or inexpensive online options: &lt;a href=&quot;https://onemonthrails.com/&quot;&gt;One Month Rails&lt;/a&gt; and &lt;a href=&quot;http://www.codecademy.com/tracks/ruby&quot;&gt;Codecademy&lt;/a&gt; would manage to keep me occupied for a day or two at a time, but I quickly realized that, while a primer on Ruby on Rails was a great start, I was seeking a more robust program.&lt;/p&gt;
+
+&lt;h3&gt;Enter Bitmaker Labs&lt;/h3&gt;
+
+&lt;p&gt;I&amp;#39;ll spare you my own explanation of coding bootcamps and their relative merits: &lt;a href=&quot;http://www.quora.com/Programming-Bootcamps/Are-programming-boot-camps-worth-it&quot;&gt;Quora&lt;/a&gt; and &lt;a href=&quot;http://eewang.github.io/blog/2013/10/17/are-dev-bootcamps-a-scam-an-alums-perspective/&quot;&gt;Hacker News&lt;/a&gt; are equally good places to begin your research if you&amp;#39;re considering a similar program. The important point, however, seems to me to be this: seeing as a coding bootcamp provides you with a wealth of educational resources and a relatively brief period of time in which to take advantage of them, a person&amp;#39;s relative success is a function of effort and effective use of time.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;I&amp;#39;ll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you have any questions. You should follow me on twitter at &lt;a href=&quot;http://www.twitter.com/alessbell&quot;&gt;@alessbell&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/hello-world&quot;&gt;Hello World&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on May 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
