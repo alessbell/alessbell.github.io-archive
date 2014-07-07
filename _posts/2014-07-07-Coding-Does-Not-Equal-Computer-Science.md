@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code and Camaraderie"
+title:  "Coding != Computer Science"
 date:   2014-06-06
 categories: Bitmaker
 permalink: coding-does-not-equal-computer-science
