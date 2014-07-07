@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding != Computer Science"
-date:   2014-06-06
+date:   2014-07-07
 categories: Bitmaker
 permalink: coding-does-not-equal-computer-science
 description: Week 1 at Bitmaker Labs.
