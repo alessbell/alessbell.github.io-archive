@@ -45,7 +45,7 @@ table, td {
 
 body.game-on td:hover {
   cursor: pointer;
-  background-color: gray;
+  background-color: #999;
 }
 
 body.game-on td.taken:hover {
