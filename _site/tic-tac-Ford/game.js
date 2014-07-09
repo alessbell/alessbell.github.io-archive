@@ -1,5 +1,5 @@
 var game = {
-  turn: "X",
+  turn: "Rob",
   instruct: function(str) {
     $('caption').text(str);
   },
@@ -18,11 +18,11 @@ var game = {
         // .addClass('rofo')
         .off('click') // don't allow clicking on it again
 
-      if(typeof game.turn != 'undefined' && game.turn == "X") {
+      if(typeof game.turn != 'undefined' && game.turn == "Rob") {
         $(this).addClass('rofo')
       }
 
-      if(typeof game.turn != 'undefined' && game.turn == "O") {
+      if(typeof game.turn != 'undefined' && game.turn == "Olivia") {
         $(this).addClass('chowtime')
       }
 
@@ -43,7 +43,7 @@ var game = {
         setTimeout(function(){$('body').click(game.begin)}, 1); // wait 1 millisecond, otherwise gets triggered by the click that made the turn
       }
       else {
-        game.turn = game.turn == "X" ? "O" : "X"; // alternate whose turn it is
+        game.turn = game.turn == "Rob" ? "Olivia" : "Rob"; // alternate whose turn it is
         game.turn_begin();
       }
     });

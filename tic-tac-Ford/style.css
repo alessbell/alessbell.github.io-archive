@@ -28,18 +28,19 @@ table{
   border-spacing: 0;
   width: 600px;
   height: 600px;
+  text-align: center;
 }
 
 td {
   padding: 0;
   width: 33.3%;
   height: 33.3%;
-  font-size: 8em;
+  font-size: 1px;
   text-align: center;
 }
 
 table, td {
-  border: 1px solid black;
+  border: 1px solid #999;
 }
 
 body.game-on td:hover {
@@ -53,7 +54,7 @@ body.game-on td.taken:hover {
 }
 
 td.win {
-  background-color: green;
+  background-color: #2BDE73;
 }
 
 td.taken {
@@ -72,4 +73,9 @@ td.taken {
 .chowtime {
   background: url('olivia.png');
   background-size: 200px 200px;
+}
+
+caption {
+  text-align: center;
+  padding-bottom: 10px;
 }
