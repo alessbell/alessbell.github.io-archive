@@ -4,13 +4,46 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-07-04T10:58:22-04:00</updated>
+<updated>2014-07-09T10:56:58-04:00</updated>
 <id>/</id>
 <author>
   <name></name>
   <uri>/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Coding != Computer Science]]></title>
+ <link rel="alternate" type="text/html" href="/coding-does-not-equal-computer-science" />
+  <id>/Coding-Does-Not-Equal-Computer-Science</id>
+  <published>2014-07-07T00:00:00-04:00</published>
+  <updated>2014-07-07T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1&gt;Coding != Computer Science&lt;/h1&gt;
+
+&lt;p&gt;Listening to David Heinemeier Hansson deliver the &lt;a href=&quot;https://www.youtube.com/watch?v=9LfmrkyP81M&quot;&gt;RailsConf keynote&lt;/a&gt; a little over two months ago was, for me, a minor revelation. It was exam season in my final semester of university and I had several philosophy finals bearing down on me. As I began organizing my notes, I came across a link on Twitter and fired up the conference livestream. What began as white noise in the background quickly piqued my interest. Soon enough, I found myself glued to the screen.&lt;/p&gt;
+
+&lt;p&gt;Growing up in Copenhagen, DHH loved tinkering with computers and tried to learn programming on three separate occasions. In retrospect, he says, his early, uninspiring attempts at writing software had one important thing in common: each time he had tried and failed, Hansson had encountered programming in the context of computer science. As a gamer and aspiring video game developer, some of his first attempts at programming were in the esoteric language &lt;a href=&quot;http://en.wikipedia.org/wiki/BASIC&quot;&gt;AMOS Basic&lt;/a&gt;. There was plenty of math and physics involved and Hansson has the report cards to prove his lack of scientific aptitude. He was an F student in math and physics, but an A student in English.&lt;/p&gt;
+
+&lt;p&gt;Years passed. Closer to the age of 20, Hansson finally learned to program. Three years later, he invented &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt;, the open source web application framework I&amp;#39;m learning here at Bitmaker Labs nearly ten years later. If your understanding of programming is based largely on the way it&amp;#39;s depicted in popular culture, you may be wondering: &lt;em&gt;how could that possibly be&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;Stories like Hansson&amp;#39;s are inconvenient exceptions to many of the storied myths of programming. From the outside looking in, many believe that what software engineers do is, in reality, a hard science akin to &lt;a href=&quot;http://en.wikipedia.org/wiki/Linus_Torvalds&quot;&gt;Linus Torvalds&amp;#39;&lt;/a&gt; development of the Linux kernel, and that in order to be a proficient programmer it&amp;#39;s best to start parsing Ruby docs in pre-K. Worse still, many programmers wish that were the case (Hansson calls this hitting them in their &amp;quot;impostor plexus&amp;quot;). In reality, Hansson says, writing software is less like engineering and more like studying 17th century French poetry: when reading other people&amp;#39;s programs, most of his time is spent wondering &amp;quot;what the f--k did this guy mean?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Point taken—and now that I&amp;#39;ve waded through other people&amp;#39;s code, I can fully attest to this. The analogy elicits a few chuckles from the audience, but it also succeeds in getting the message across. In DHH&amp;#39;s view, writing software boils down to precisely that: &lt;em&gt;writing&lt;/em&gt;. He uses this notion of computer science as a liberal art (&lt;a href=&quot;https://www.youtube.com/watch?v=IY7EsTnUSxY&quot;&gt;a kind of cognitive re-framing of the discipline popularized by Steve Jobs&lt;/a&gt;) to further argue that, while there will always be a place for unit testing and optimization, prioritizing metrics ahead of system architecture is fundamentally wrongheaded because it sacrifices sound system design on the altar of objective science.&lt;/p&gt;
+
+&lt;p&gt;As a web developer-in-training, I prefer to view the issue of testing and TDD with a bit more nuance (&lt;a href=&quot;https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric&quot;&gt;this is a great piece&lt;/a&gt; if you&amp;#39;re interested in the other side of the story), but hearing DHH challenge the computer science paradigm was a much-needed reminder that, despite a lack of formal computer science education, programming is still very much &amp;quot;for me.&amp;quot; This may seem like a trite realization, but as someone who loved studying the humanities in university while maintaining a strong interest in software development, it was a relief to hear that the two aren&amp;#39;t mutually exclusive. In fact, they may be more directly related than previously imagined.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;I&amp;#39;ll be writing more about my experience at Bitmaker Labs in the weeks to come; feel free to get in touch if you have any questions. You should follow me on twitter at &lt;a href=&quot;http://www.twitter.com/alessbell&quot;&gt;@alessbell&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/coding-does-not-equal-computer-science&quot;&gt;Coding != Computer Science&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on July 07, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
