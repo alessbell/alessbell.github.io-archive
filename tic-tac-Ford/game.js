@@ -88,3 +88,29 @@ var game = {
 $(function(){
   game.begin();
 });
+
+console.log("Hey again, FITC :) My name is")
+
+console.log("      ___           ___       ___           ___           ___                        ___")
+console.log("     /  /\\         /  /\\     /  /\\         /  /\\         /  /\\           ___        /  /\\")
+console.log("    /  /::\\       /  /:/    /  /::\\       /  /::\\       /  /::\\         /__/\\      /  /::\\")
+console.log("   /  /:/\\:\\     /  /:/    /  /:/\\:\\     /__/:/\\:\\     /__/:/\\:\\        \\__\\:\\    /  /:/\\:\\")
+console.log("  /  /::\\ \\:\\   /  /:/    /  /::\\ \\:\\   _\\_ \\:\\ \\:\\   _\\_ \\:\\ \\:\\       /  /::\\  /  /::\\ \\:\\")
+console.log(" /__/:/\\:\\_\\:\\ /__/:/    /__/:/\\:\\ \\:\\ /__/\\ \\:\\ \\:\\ /__/\\ \\:\\ \\:\\   __/  /:/\\/ /__/:/\\:\\_\\:\\")
+console.log(" \\__\\/  \\:\\/:/ \\  \\:\\    \\  \\:\\ \\:\\_\\/ \\  \\:\\ \\:\\_\\/ \\  \\:\\ \\:\\_\\/  /__/\\/:/~~  \\__\\/  \\:\\/:/")
+console.log("      \\__\\::/   \\  \\:\\    \\  \\:\\ \\:\\    \\  \\:\\_\\:\\    \\  \\:\\_\\:\\    \\  \\::/          \\__\\::/")
+console.log("      /  /:/     \\  \\:\\    \\  \\:\\_\\/     \\  \\:\\/:/     \\  \\:\\/:/     \\  \\:\\          /  /:/")
+console.log("     /__/:/       \\  \\:\\    \\  \\:\\        \\  \\::/       \\  \\::/       \\__\\/         /__/:/")
+console.log("     \\__\\/         \\__\\/     \\__\\/         \\__\\/         \\__\\/                      \\__\\/")
+
+console.log("and I <3 the web.")
+console.log(" ")
+console.log("I'm a recent graduate of both the University of Toronto (political science) and Bitmaker Labs (Ruby on Rails/JavaScript). I first began writing markup in my grade 7 computers class: I distinctly remember learning CSS at a time when the ability to create rounded corners was omitted from the original CSS specs. Whenever I'm frustrated with one aspect of front-end development or another, I think back to a time when rounded corners could only be achieved through hacky solutions like layering empty tags with decreasing side margins or by manually drawing them in Photoshop and inserting them as images... Those were the days.")
+console.log(" ")
+console.log("Before I decided to pursue web development, I was a communications staffer for a Toronto city councillor: I had the unique privilege of working at city hall during the infamous Summer of Crack. Our fair mayor provided ample inspiration for my #WomenofWebU application—I hope you enjoy playing my Rob Ford-inspired jQuery game :)")
+console.log(" ")
+console.log("I've attended a few hackathons but FITC's Web Unleashed would be my first web conference. I would greatly appreciate the opportunity to attend because, as I've already experienced, the web dev community in Toronto is an incredibly supportive and active one. I hope to continue learning from my peers so that, one day, I can contribute something of value back to the community that I've already learned so much from. The opportunity to attend FITC's Web Unleashed would be an excellent first step in the right direction.")
+console.log(" ")
+console.log("Thank you for considering my application to #WomenofWebU!")
+console.log("- Alessia Bellisario")
+
