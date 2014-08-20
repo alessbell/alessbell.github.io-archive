@@ -5,7 +5,7 @@ title: About Alessia
 ---
 # About Alessia
 
-Hi, I'm Alessia Bellisario. Test test test I'm a recent graduate of [Trinity College](http://www.trinity.utoronto.ca/) in the [University of Toronto](http://www.utoronto.ca/) with a degree in Ethics, Society & Law  and a member of the [Bitmaker Labs](http://bitmakerlabs.com/) June full-stack development cohort. I love tech, politics, education and any cause or company working at the intersection of these spaces.
+Hi, I'm Alessia Bellisario. I'm a recent graduate of [Trinity College](http://www.trinity.utoronto.ca/) in the [University of Toronto](http://www.utoronto.ca/) with a degree in Ethics, Society & Law  and a member of the [Bitmaker Labs](http://bitmakerlabs.com/) June full-stack development cohort. I love tech, politics, education and any cause or company working at the intersection of these spaces.
 
 <p><figure><img src="https://farm4.staticflickr.com/3694/14071442237_d25ec73d80_z.jpg"></figure><figcaption>The Keith Davey Forum at Victoria College, U of T.</figcaption>
 </figure></p>
