@@ -16,4 +16,4 @@ I hope to use this tiny piece of digital real estate to post occasional code sni
 
 ***
 
-If you'd like to chat or find yourself in Toronto and enjoy a good cup of coffee, feel free to get in touch via email or Twitter at <bellisario.alessia@gmail.com> or [@alessbell](http://twitter.com/alessbell).
+<p>I'm currently seeking an opportunity to build great products in Canada or the European Union. Think we'd be a good fit? Check out my <a href="../bellisario.pdf">resume</a> and <a href="mailto:bellisario.alessia@gmail.com">get in touch</a>.</p>
