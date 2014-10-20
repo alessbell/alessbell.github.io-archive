@@ -16,4 +16,4 @@ I hope to use this tiny piece of digital real estate to post occasional code sni
 
 ***
 
-<p>I'm currently seeking an opportunity to build great products in Canada or the European Union. Think we'd be a good fit? Check out my <a href="../bellisario.pdf">resume</a> and <a href="mailto:bellisario.alessia@gmail.com">get in touch</a>.</p>
+<p>I'm currently seeking an opportunity to build great products in Canada or the European Union. Think we'd be a good fit? Check out my <a href="../Alessia_Bellisario_resume.pdf">resume</a> and <a href="mailto:bellisario.alessia@gmail.com">get in touch</a>.</p>
