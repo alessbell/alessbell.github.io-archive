@@ -24,7 +24,7 @@ particlesJS('particles-js', {
         }
     },
     interactivity: {
-        enable: false,
+        enable: true,
         mouse: {
             distance: 250
         },
@@ -32,5 +32,5 @@ particlesJS('particles-js', {
         mode: 'grab'
     },
     /* Retina Display Support */
-    retina_detect: false
+    retina_detect: true
 });
