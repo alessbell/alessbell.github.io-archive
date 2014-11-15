@@ -1,6 +1,6 @@
 particlesJS('particles-js', {
     particles: {
-        color: '#fff',
+        color: '#E1E1E1',
         shape: 'circle', // "circle", "edge" or "triangle"
         opacity: 0.5,
         size: 2,
@@ -9,7 +9,7 @@ particlesJS('particles-js', {
         line_linked: {
             enable_auto: true,
             distance: 250,
-            color: '#fff',
+            color: '#E1E1E1',
             opacity: 0.5,
             width: 1,
             condensed_mode: {
@@ -20,7 +20,7 @@ particlesJS('particles-js', {
         },
         anim: {
             enable: true,
-            speed: 2
+            speed: 3
         }
     },
     interactivity: {
@@ -28,7 +28,7 @@ particlesJS('particles-js', {
         mouse: {
             distance: 250
         },
-        detect_on: 'canvas', // "canvas" or "window"
+        detect_on: 'window', // "canvas" or "window"
         mode: 'grab'
     },
     /* Retina Display Support */

@@ -191,9 +191,11 @@ header
 
 // Where the magic happens
 .main
-  background: #FFF
+  // background: #FFF
   max-width: $content-width
   margin: 2em auto
+  position: relative
+  z-index: 100
   &:after
     content: ""
     display: table
@@ -281,3 +283,19 @@ hr
     .thought
       .thought-title
         width: 65%
+
+html, body
+  margin: 0 0 0 0 !important
+
+canvas
+  display: block
+  vertical-align: bottom
+  position: absolute
+  width: 98% !important
+
+#particles-js
+  height: 100%
+  background: white
+  margin: 0
+  background-size: 100% auto
+  z-index: -10
