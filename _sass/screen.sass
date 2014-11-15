@@ -138,8 +138,9 @@ header
   +transition-property(opacity)
   +transition-duration(1s)
   height: $header-height
-  margin-top: 15px
-  padding-left: 15px
+  padding-left: 35px
+  padding-right: 35px
+  padding-top: 35px
   max-width: 100%
   &:hover
     +opacity(1)
@@ -191,9 +192,12 @@ header
 
 // Where the magic happens
 .main
-  background: #FFF
+  // background: #FFF
   max-width: $content-width
   margin: 2em auto
+  padding: 20px
+  position: relative
+  z-index: 100
   &:after
     content: ""
     display: table
@@ -220,7 +224,7 @@ figure
   img
     +border-radius(4px)
     margin-left: -40px
-    width: $content-width + 80px
+    width: $content-width + 40px
 
 // Sometimes I got lil quips/images
 aside,
@@ -281,3 +285,18 @@ hr
     .thought
       .thought-title
         width: 65%
+
+html, body
+  margin: 0 0 0 0 !important
+  padding: 0 0 0 0 !important
+
+canvas
+  display: block
+  vertical-align: bottom
+  position: absolute
+
+#particles-js
+  height: 100% auto
+  background: white
+  margin: 0
+  z-index: -10
