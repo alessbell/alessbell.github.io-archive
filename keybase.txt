@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/alessbell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aless.co
+  * I am alessbell (https://keybase.io/alessbell) on keybase.
+  * I have a public key with fingerprint C17E E29A 032F 3EDD BE06  0672 0DFC 06C9 78EE B5E9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c17ee29a032f3eddbe0606720dfc06c978eeb5e9",
+            "host": "keybase.io",
+            "key_id": "0dfc06c978eeb5e9",
+            "kid": "0101d651de48302f5b380642a31f90c64b600f6bd1ae257249c09cc028e2357928860a",
+            "uid": "9bcdb63e60663590e6bf1fb40aad5400",
+            "username": "alessbell"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5b7e9f87a3551f7e668e82d195440d777cca09e9684ae9746666faba71474b970f"
+            ]
+        },
+        "service": {
+            "hostname": "aless.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421927910,
+    "expire_in": 157680000,
+    "prev": "5ed2f09ad7f4ef0cfde6b2de8060f04bcb9e44780193c0e17d656de686d04905",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMJhAnicbVJdbBVFFL6tINIEbUrSB1ISmSqVpFxmd2dndm5JgIQnE7ANJECq3MzP
+mbL2unu7e3sVGzQRNFGJkdRQSWMVvLFABCuGwgOBQkiI2hKtxAeVFwIlIYTfRDHx
+b7Zq4oPnZTJnvvOdb75zzi94KNdQ9+3xzbt2RjOy7uuz+/pzGyeuzQwgGevtqDCA
+emH2MGHUA0k5CaMKKiDlMACXC+y5xgOtJWCKKXOxNgpTxVkAIH3gqB1ti9OswtJI
+kUI+jG3OXoqhttn/wff+/eBgR1Pf0UACD7vGl16AKXGF5xiOFSWSYmyo1I4A12cu
+4QpzpbAbgOv5jLtBQLGwdP2zdFwqLakHViT1fI6BSuMYSbAQ2icYZ8AUkki8ABYt
+SpCmEkoltKMdJVCNeyGzIA17rOoUFbqRLxlwEzDh+b5jGFAaQOBqh/uEYM0YU0pg
+DpwGRABnhNowQgrmEEYkZ9ig5yy3bVkN1Sx5ZtN/2+dVZlQ5iSuxiks2u61SKRcy
+QZXt5Qz1IsjiP/VFGUbazscWVCFJwzhCBcciVSXMCB3iOtxl3MHtCF4qhwkUwwzh
+MxpgG1kbqFpKH7RrMBeaGQIGK6OtT64G6zw2mEglORDCAuxwT2FwmJ0QtZiAakw4
+9lH2o74oRgXfyhQ9ltJ6FolKfwJox7mJZ+fk6hpyD8+tzzYs1zC/8d+9y/8670/1
+WnHp/qfeSU8NbyrV916dhFWX2aGrH/vnV0zeX1aZObD16S/fWzU1feP1z3+b/8bY
+xLXLQ+0Hrx/++conH51+7PbW7//oyw9s2DzcPPqk27KrOnj3/ZrJLV3dGbeWPxtp
+erV53ZWVSXn5raHmB0+cWf3NI+uff2vZcOdoW1d924n8wrV9re+Oj7Ke2y0LHt0y
+1fLFpUUrL5wp35u82/TM8oa1i9d3D013TH+4b83R1treC2+nv/946ZfuYwVyePzl
+HzYMFpZ0zfmuNn46v+nOgTVj8Qc79+45tmfRKbJ/pOmrwUNv0ou1xgc3Om92dJgt
+P43MvTi2u63xXs2f17Tu5CvRVNixe0lX3ZHHN5799C9EikQk
+=7vG2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alessbell
+
+==================================================================
