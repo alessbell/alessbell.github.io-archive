@@ -1,6 +1,1 @@
-# aless.co
-
-Hey! This is my personal site. Check it out at [www.aless.co](http://aless.co/).
-
----
-Thanks for stopping by :)
+Archived version of [www.aless.co](http://aless.co/), 2014-2018
